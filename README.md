@@ -7,7 +7,7 @@ Login
 | Path        | Tipo        | Descripción   |
 | :---        |    :----   |          :--- |
 | username    | String      | El nombre de usuario de inicio de sesión   |
-| password    | String      | La contraseña de inicio de sesión      |
+| password    | String      | La contraseña de inicio de sesión (Requiere mínimo 8 caracteres, que tienen que contener mayúsculas, símbolos y números )      |
 
 ### HTTP Request
 
